@@ -1,0 +1,1 @@
+# Hamradio_KiCAD_FT818_Micadapter
