@@ -114,33 +114,7 @@ Text GLabel 5250 3600 0    50   Input ~ 0
 GND
 Text GLabel 5250 3700 0    50   Input ~ 0
 5V
-$Comp
-L Connector:Conn_01x03_Female J4
-U 1 1 607373F2
-P 5450 3250
-F 0 "J4" H 5478 3276 50  0000 L CNN
-F 1 "Conn_01x03_Female" H 5478 3185 50  0000 L CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical" H 5450 3250 50  0001 C CNN
-F 3 "~" H 5450 3250 50  0001 C CNN
-	1    5450 3250
-	1    0    0    -1  
-$EndComp
-$Comp
-L Connector:Conn_01x03_Female J2
-U 1 1 60738991
-P 3800 3650
-F 0 "J2" H 3828 3676 50  0000 L CNN
-F 1 "Conn_01x03_Female" H 3828 3585 50  0000 L CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical" H 3800 3650 50  0001 C CNN
-F 3 "~" H 3800 3650 50  0001 C CNN
-	1    3800 3650
-	1    0    0    -1  
-$EndComp
-Text GLabel 3600 3550 0    50   Input ~ 0
-GND
-Text GLabel 3600 3650 0    50   Input ~ 0
-GND
-Text GLabel 3600 3750 0    50   Input ~ 0
+Text GLabel 5250 3050 0    50   Input ~ 0
 GND
 Text GLabel 5250 3150 0    50   Input ~ 0
 DWN
@@ -148,4 +122,15 @@ Text GLabel 5250 3350 0    50   Input ~ 0
 UP
 Text GLabel 5250 3250 0    50   Input ~ 0
 FST
+$Comp
+L Connector:Conn_01x04_Female J2
+U 1 1 6077AEAE
+P 5450 3150
+F 0 "J2" H 5478 3126 50  0000 L CNN
+F 1 "Conn_01x04_Female" H 5478 3035 50  0000 L CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical" H 5450 3150 50  0001 C CNN
+F 3 "~" H 5450 3150 50  0001 C CNN
+	1    5450 3150
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
