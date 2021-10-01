@@ -4076,7 +4076,7 @@
   (gr_text "Audio- | Audio+ " (at 119.38 83.82) (layer "F.SilkS") (tstamp 00000000-0000-0000-0000-0000607094f6)
     (effects (font (size 0.508 0.508) (thickness 0.127)))
   )
-  (gr_text "FT81X\nMIC-ADAPTER\nP29\nDO7GN\nV1.1 (9/21)" (at 135.89 80.01) (layer "F.SilkS") (tstamp 287832b4-8ab0-4f06-8eea-b0574d346c35)
+  (gr_text "FT-81X\nMIC-ADAPTER\nP29\nDO7GN\nV1.1 (9/21)" (at 135.89 80.01) (layer "F.SilkS") (tstamp 287832b4-8ab0-4f06-8eea-b0574d346c35)
     (effects (font (size 2 2) (thickness 0.3)) (justify left))
   )
   (gr_text "Rev: DO7MLS\n     DF8GH" (at 128.016 93.345) (layer "F.SilkS") (tstamp a1b305d9-ad99-49bd-aad9-8333eb8ab5f7)
